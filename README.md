@@ -1,4 +1,4 @@
-## scipy : 
+## scipy :  Scientific Python
 It is used for scientific computing and technical computing and mathematical problems. 
 Built on Numpy, allows manipulation and visualization.
 
